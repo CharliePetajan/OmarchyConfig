@@ -1,3 +1,9 @@
-2026/04/12-23:06:49.964 1d52 Reusing MANIFEST /home/charles/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/12-23:06:49.965 1d52 Recovering log #3
-2026/04/12-23:06:49.965 1d52 Reusing old log /home/charles/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2026/04/12-23:20:53.823 1d52 Reusing MANIFEST /home/charles/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/12-23:20:53.823 1d52 Recovering log #3
+2026/04/12-23:20:53.833 1d52 Reusing old log /home/charles/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2026/04/12-23:20:58.023 1d55 Level-0 table #5: started
+2026/04/12-23:20:58.063 1d55 Level-0 table #5: 3189360 bytes OK
+2026/04/12-23:20:58.068 1d55 Delete type=0 #3
+2026/04/12-23:21:12.662 1d52 Level-0 table #7: started
+2026/04/12-23:21:12.710 1d52 Level-0 table #7: 3266528 bytes OK
+2026/04/12-23:21:12.714 1d52 Delete type=0 #4

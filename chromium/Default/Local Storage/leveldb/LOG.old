@@ -1,3 +1,6 @@
-2026/04/12-22:51:30.220 5 Reusing MANIFEST /home/charles/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2026/04/12-22:51:30.231 5 Recovering log #3
-2026/04/12-22:51:30.232 5 Reusing old log /home/charles/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2026/04/12-23:39:55.951 5 Reusing MANIFEST /home/charles/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/12-23:39:55.960 5 Recovering log #18
+2026/04/12-23:39:55.962 5 Reusing old log /home/charles/.config/chromium/Default/Local Storage/leveldb/000018.log 
+2026/04/12-23:40:22.413 5 Level-0 table #22: started
+2026/04/12-23:40:22.430 5 Level-0 table #22: 10858 bytes OK
+2026/04/12-23:40:22.436 5 Delete type=0 #18

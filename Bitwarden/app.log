@@ -1,0 +1,24 @@
+[2026-04-12 23:37:29.307] [info]  No state version found, assuming empty state.
+[2026-04-12 23:37:29.446] [info]  [Process Isolation] Isolating process from debuggers and memory dumps
+[2026-04-12 23:37:29.457] [info]  [NAPI] [INFO] desktop_core::process_isolation::process_isolation: Disabling ptrace and memory access for main via PR_SET_DUMPABLE. pid=21760
+[2026-04-12 23:37:29.466] [info]  Coredumps are disabled in renderer process
+[2026-04-12 23:37:30.731] [info]  [Native Messaging IPC] Clearing connected apps
+[2026-04-12 23:37:30.739] [info]  State version: 75
+[2026-04-12 23:37:30.764] [error] Unhandled error in angular Error: Error invoking remote method 'sshagent.clearkeys': Error: No handler registered for 'sshagent.clearkeys'
+[2026-04-12 23:37:30.803] [info]  Retrieving application id
+[2026-04-12 23:37:37.488] [info]  Retrieving application id
+[2026-04-12 23:37:37.519] [info]  Retrieving application id
+[2026-04-12 23:37:48.791] [info]  Retrieving application id
+[2026-04-12 23:37:49.892] [info]  [KeyService] Deriving master key took 942ms
+[2026-04-12 23:37:49.907] [info]  Retrieving application id
+[2026-04-12 23:37:50.283] [info]  Active account changed, clearing SSH keys
+[2026-04-12 23:37:50.332] [error] Failed to clear SSH keys Error: Error invoking remote method 'sshagent.clearkeys': Error: No handler registered for 'sshagent.clearkeys'
+[2026-04-12 23:37:50.416] [info]  [NAPI] [INFO] desktop_core::password::password: falling back to get legacy Bitwarden 151f470e-c7d5-40d0-a8cb-b42b00431c99_accessTokenKey
+[2026-04-12 23:37:50.513] [info]  Using SignalR for server notifications
+[2026-04-12 23:37:50.728] [info]  [SignalR] WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=[REDACTED]
+[2026-04-12 23:37:50.729] [info]  [SignalR] Using HubProtocol 'messagepack'.
+[2026-04-12 23:37:50.763] [info]  [NAPI] [INFO] desktop_core::password::password: OS keyring is_locked=false
+[2026-04-12 23:37:51.215] [info]  Active account changed, clearing SSH keys
+[2026-04-12 23:37:51.225] [error] Failed to clear SSH keys Error: Error invoking remote method 'sshagent.clearkeys': Error: No handler registered for 'sshagent.clearkeys'
+[2026-04-12 23:37:51.903] [info]  [CipherService]: decrypt complete took 69.89999999990687 [ [ 'Items', 2 ] ]
+[2026-04-12 23:37:52.083] [info]  [SearchService]: index complete took 161.5 [ [ 'Items', 2 ] ]

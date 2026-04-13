@@ -1,2 +1,3 @@
-2026/04/12-23:29:35.102 1d52 Creating DB /home/charles/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb since it was missing.
-2026/04/12-23:29:35.106 1d52 Reusing MANIFEST /home/charles/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/12-23:44:59.038 663b Reusing MANIFEST /home/charles/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/12-23:44:59.039 663b Recovering log #3
+2026/04/12-23:44:59.039 663b Reusing old log /home/charles/.config/chromium/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000003.log 

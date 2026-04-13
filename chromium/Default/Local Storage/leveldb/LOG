@@ -1,15 +1,13 @@
-2026/04/12-22:55:22.418 5 Reusing MANIFEST /home/charles/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2026/04/12-22:55:22.427 5 Recovering log #3
-2026/04/12-22:55:22.429 5 Reusing old log /home/charles/.config/chromium/Default/Local Storage/leveldb/000003.log 
-2026/04/12-23:00:44.821 5 Level-0 table #5: started
-2026/04/12-23:00:44.842 5 Level-0 table #5: 51499 bytes OK
-2026/04/12-23:00:44.849 5 Delete type=0 #3
-2026/04/12-23:28:12.926 7 Level-0 table #7: started
-2026/04/12-23:28:12.945 7 Level-0 table #7: 30992 bytes OK
-2026/04/12-23:28:12.950 7 Delete type=0 #4
-2026/04/12-23:29:32.759 5 Level-0 table #9: started
-2026/04/12-23:29:32.767 5 Level-0 table #9: 73708 bytes OK
-2026/04/12-23:29:32.772 5 Delete type=0 #6
-2026/04/12-23:31:21.075 5 Level-0 table #11: started
-2026/04/12-23:31:21.090 5 Level-0 table #11: 19731 bytes OK
-2026/04/12-23:31:21.096 5 Delete type=0 #8
+2026/04/12-23:44:51.581 5 Reusing MANIFEST /home/charles/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/12-23:44:51.591 5 Recovering log #21
+2026/04/12-23:44:51.591 5 Level-0 table #24: started
+2026/04/12-23:44:51.596 5 Level-0 table #24: 12679 bytes OK
+2026/04/12-23:44:51.601 5 Delete type=0 #21
+2026/04/12-23:45:51.611 5 Level-0 table #27: started
+2026/04/12-23:45:51.649 5 Level-0 table #27: 947166 bytes OK
+2026/04/12-23:45:51.659 5 Delete type=0 #25
+2026/04/12-23:47:57.947 7 Level-0 table #29: started
+2026/04/12-23:47:57.962 7 Level-0 table #29: 12719 bytes OK
+2026/04/12-23:47:57.968 7 Delete type=0 #26
+2026/04/12-23:47:57.970 7 Compacting 4@0 + 1@1 files
+2026/04/12-23:47:57.990 7 compacted to: files[ 4 1 1 0 0 0 0 ]
