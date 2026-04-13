@@ -1,3 +1,6 @@
-2026/04/12-22:51:30.208 14e2 Reusing MANIFEST /home/charles/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2026/04/12-22:51:30.208 14e2 Recovering log #3
-2026/04/12-22:51:30.209 14e2 Reusing old log /home/charles/.config/chromium/Default/Sync Data/LevelDB/000003.log 
+2026/04/12-22:55:22.403 1d52 Reusing MANIFEST /home/charles/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/04/12-22:55:22.404 1d52 Recovering log #3
+2026/04/12-22:55:22.405 1d52 Reusing old log /home/charles/.config/chromium/Default/Sync Data/LevelDB/000003.log 
+2026/04/12-23:08:57.174 1d53 Level-0 table #5: started
+2026/04/12-23:08:57.181 1d53 Level-0 table #5: 139894 bytes OK
+2026/04/12-23:08:57.184 1d53 Delete type=0 #3
