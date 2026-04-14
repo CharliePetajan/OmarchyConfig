@@ -1,9 +1,9 @@
-2026/04/12-23:20:53.823 1d52 Reusing MANIFEST /home/charles/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/12-23:20:53.823 1d52 Recovering log #3
-2026/04/12-23:20:53.833 1d52 Reusing old log /home/charles/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
-2026/04/12-23:20:58.023 1d55 Level-0 table #5: started
-2026/04/12-23:20:58.063 1d55 Level-0 table #5: 3189360 bytes OK
-2026/04/12-23:20:58.068 1d55 Delete type=0 #3
-2026/04/12-23:21:12.662 1d52 Level-0 table #7: started
-2026/04/12-23:21:12.710 1d52 Level-0 table #7: 3266528 bytes OK
-2026/04/12-23:21:12.714 1d52 Delete type=0 #4
+2026/04/12-23:35:53.674 4e01 Reusing MANIFEST /home/charles/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/12-23:35:53.675 4e01 Recovering log #6
+2026/04/12-23:35:53.678 4e01 Reusing old log /home/charles/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000006.log 
+2026/04/12-23:35:57.340 4e02 Compacting 1@1 + 1@2 files
+2026/04/12-23:35:57.373 4e02 Generated table #9@1: 240 keys, 1172730 bytes
+2026/04/12-23:35:57.374 4e02 Compacted 1@1 + 1@2 files => 1172730 bytes
+2026/04/12-23:35:57.376 4e02 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/12-23:35:57.376 4e02 Delete type=2 #5
+2026/04/12-23:35:57.377 4e02 Delete type=2 #7

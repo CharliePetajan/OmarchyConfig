@@ -1,3 +1,27 @@
-2026/04/12-23:39:56.133 5 Reusing MANIFEST /home/charles/.config/chromium/Default/Session Storage/MANIFEST-000001
-2026/04/12-23:39:56.135 5 Recovering log #8
-2026/04/12-23:39:56.137 5 Reusing old log /home/charles/.config/chromium/Default/Session Storage/000008.log 
+2026/04/13-16:27:33.898 5 Reusing MANIFEST /home/charles/.config/chromium/Default/Session Storage/MANIFEST-000001
+2026/04/13-16:27:33.902 5 Recovering log #14
+2026/04/13-16:27:33.904 5 Reusing old log /home/charles/.config/chromium/Default/Session Storage/000014.log 
+2026/04/13-16:28:35.061 5 Level-0 table #18: started
+2026/04/13-16:28:35.068 5 Level-0 table #18: 22120 bytes OK
+2026/04/13-16:28:35.075 5 Delete type=0 #14
+2026/04/13-16:29:41.747 7 Level-0 table #20: started
+2026/04/13-16:29:41.761 7 Level-0 table #20: 10399 bytes OK
+2026/04/13-16:29:41.766 7 Delete type=0 #17
+2026/04/13-16:30:41.747 8 Level-0 table #22: started
+2026/04/13-16:30:41.759 8 Level-0 table #22: 10716 bytes OK
+2026/04/13-16:30:41.764 8 Delete type=0 #19
+2026/04/13-16:30:41.764 8 Compacting 4@0 + 1@1 files
+2026/04/13-16:30:41.772 8 Generated table #23@0: 43 keys, 16731 bytes
+2026/04/13-16:30:41.772 8 Compacted 4@0 + 1@1 files => 16731 bytes
+2026/04/13-16:30:41.774 8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/13-16:30:41.777 8 Delete type=2 #13
+2026/04/13-16:30:41.777 8 Delete type=2 #15
+2026/04/13-16:30:41.778 8 Delete type=2 #18
+2026/04/13-16:30:41.778 8 Delete type=2 #20
+2026/04/13-16:30:41.778 8 Delete type=2 #22
+2026/04/13-16:30:59.172 7 Level-0 table #25: started
+2026/04/13-16:30:59.178 7 Level-0 table #25: 14143 bytes OK
+2026/04/13-16:30:59.183 7 Delete type=0 #21
+2026/04/13-16:34:41.747 7 Level-0 table #27: started
+2026/04/13-16:34:41.760 7 Level-0 table #27: 18137 bytes OK
+2026/04/13-16:34:41.766 7 Delete type=0 #24
